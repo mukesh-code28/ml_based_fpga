@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/msme/test
+vbias_rom
+Z0 !s110 1783838865
+!i10b 1
+!s100 A:T:2_>U:cP94;9G]F<G60
+IBV@zUa=el;K@Aj;zPzzPP1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/msme_project_1/simulation
+w1782904981
+8bias_rom.v
+Fbias_rom.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1783838865.000000
+Z5 !s107 weight_rom.v|relu.v|neuron6.v|neuron10.v|neuron.v|network_rom_tb.v|network_rom.v|mac.v|layer3.v|layer2.v|layer1.v|bias_rom.v|
+Z6 !s90 bias_rom.v|layer1.v|layer2.v|layer3.v|mac.v|network_rom.v|network_rom_tb.v|neuron.v|neuron10.v|neuron6.v|relu.v|weight_rom.v|
+!i113 1
+Z7 tCvgOpt 0
+vlayer1
+R0
+!i10b 1
+!s100 :lY=mj;nJn^EzCea<oOKN2
+I8lH@69[YBN6YJIQ=[GmWI3
+R1
+R2
+w1782904962
+8layer1.v
+Flayer1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vlayer2
+R0
+!i10b 1
+!s100 W6nf[Cmnb895@hehn]Ikn2
+I6`dfMT3jNTh4@kWh1]4S]0
+R1
+R2
+w1782904958
+8layer2.v
+Flayer2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vlayer3
+R0
+!i10b 1
+!s100 An9A8EL^U@9DS9e]kTXV`0
+I2Z=X_HBN9[O<m1YTGlRJM3
+R1
+R2
+w1782904950
+8layer3.v
+Flayer3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vmac
+R0
+!i10b 1
+!s100 SEK12LE^F`EhL:nTX:E^53
+IO6fhobkM<=ULfdezgVZk10
+R1
+R2
+w1782898631
+8mac.v
+Fmac.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vnetwork_rom
+R0
+!i10b 1
+!s100 PlBWHnGgdXnK47aB?FSS13
+ITZH4l>6eP7e7`OV>R2D5K2
+R1
+R2
+w1782908881
+8network_rom.v
+Fnetwork_rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vnetwork_rom_tb
+R0
+!i10b 1
+!s100 <0136BR730TB<lMVO8MRl2
+I<5zh9I@KBzRFhMBhMaXoe1
+R1
+R2
+w1783838865
+8network_rom_tb.v
+Fnetwork_rom_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vneuron
+R0
+!i10b 1
+!s100 _NQiIo3<Jf<J[9:K[bSfV3
+I0On>mQI4Wl9Fi5>VY`cjP3
+R1
+R2
+w1782915375
+8neuron.v
+Fneuron.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vneuron10
+R0
+!i10b 1
+!s100 F^oiPk4>^fl8:5nSfH9:h0
+IbW6=NQJJK_f>7PK`J5gmZ2
+R1
+R2
+w1782915399
+8neuron10.v
+Fneuron10.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vneuron6
+R0
+!i10b 1
+!s100 ?fUBOhi<mf0`f2^YG4KCZ0
+I`CkVSBY<3KjN52`M[<Jo[2
+R1
+R2
+w1782904896
+8neuron6.v
+Fneuron6.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vrelu
+R0
+!i10b 1
+!s100 m@2ElD8bm4ggS^OFZJZK[2
+I^0a?^zPgU7XNL40Ae^Z6H2
+R1
+R2
+w1782897728
+8relu.v
+Frelu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+vweight_rom
+R0
+!i10b 1
+!s100 FiQ]OOY9Emmi>`@N`=RIi0
+IV;;ff=Rm^k]Z5VN5W@>DZ1
+R1
+R2
+w1782915420
+8weight_rom.v
+Fweight_rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
